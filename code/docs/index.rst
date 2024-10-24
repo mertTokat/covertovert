@@ -6,7 +6,13 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Berk Ulutaş 2522084
+
+Mert Tokat 2644383
+
+Group 15
+
+https://github.com/mertTokat/covertovert
 
 
 .. toctree::
